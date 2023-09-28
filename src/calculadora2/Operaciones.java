@@ -34,5 +34,12 @@ public class Operaciones {
         return suma;
     }
     
+     public double resta(){
+        
+        double resta = this.getVar1() - this.getVar2();
+        return resta;
+                
+    }
+    
     
 }
